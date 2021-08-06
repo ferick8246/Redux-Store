@@ -40,7 +40,7 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Take A Look
 
-![This is the homepage to look up books]()
+![This is the homepage to look up books](https://github.com/ferick8246/Redux-Store/blob/6041be46c8d8a21dd4e66406d1cbe585168d4255/Shopshop.PNG)
 
 ## Questions
 
