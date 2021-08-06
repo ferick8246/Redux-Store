@@ -40,7 +40,7 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Take A Look
 
-![This is the homepage to look up books](https://github.com/ferick8246/Book-Search-Engine/blob/9b5c7426581a1c00ef2024e6f6fe6956bdeb25c4/Books.PNG)
+![This is the homepage to look up books]()
 
 ## Questions
 
